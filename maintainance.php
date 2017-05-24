@@ -37,7 +37,7 @@
 	<body>
 		<div id="content">
 			<div id="photo">
-				<img id="guyphoto" src="/projectone/images/guy.jpg">
+				<img id="guyphoto" src="guy.jpg">
 			</div>
 			<article>
 				<div id="writting">
